@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="search_title_str">Search Books</string>
+    <string name="sort_alphabetically">Sort Alphabetically</string>
+    <string name="sort_by_author">Sort By Author</string>
+</resources>
